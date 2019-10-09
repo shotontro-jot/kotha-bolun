@@ -15,7 +15,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "gh-pages -d kotha-bolun"
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -45,5 +46,5 @@
   "bugs": {
     "url": "https://github.com/fa2013331019/shotontrojot-kotha-bolun/issues"
   },
-  "homepage": "https://github.com/fa2013331019.github.io/shotontrojot-kotha-bolun"
+  "homepage": "https://fa2013331019.github.io/shotontrojot-kotha-bolun"
 }
