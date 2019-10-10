@@ -38,13 +38,13 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fa2013331019/shotontrojot-kotha-bolun.git"
+    "url": "git+https://github.com/shotontro-jot/kotha-bolun.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fa2013331019/shotontrojot-kotha-bolun/issues"
+    "url": "https://github.com/shotontro-jot/shotontrojot-kotha-bolun/issues"
   },
-  "homepage": "https://fa2013331019.github.io/shotontrojot-kotha-bolun"
+  "homepage": "https://shotontro-jot.github.io/shotontrojot-kotha-bolun"
 }
