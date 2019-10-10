@@ -38,7 +38,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+github.com/shotontro-jot/kotha-bolun.git"
+    "url": "git+https://github.com/shotontro-jot/kotha-bolun.git"
   },
   "keywords": [],
   "author": "",
