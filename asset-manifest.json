@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/kotha-bolun/static/css/main.25a72578.chunk.css",
-    "main.js": "/kotha-bolun/static/js/main.89045179.chunk.js",
-    "main.js.map": "/kotha-bolun/static/js/main.89045179.chunk.js.map",
+    "main.css": "/kotha-bolun/static/css/main.224bce28.chunk.css",
+    "main.js": "/kotha-bolun/static/js/main.5b2c7878.chunk.js",
+    "main.js.map": "/kotha-bolun/static/js/main.5b2c7878.chunk.js.map",
     "runtime-main.js": "/kotha-bolun/static/js/runtime-main.115aee60.js",
     "runtime-main.js.map": "/kotha-bolun/static/js/runtime-main.115aee60.js.map",
     "static/css/2.266e55a5.chunk.css": "/kotha-bolun/static/css/2.266e55a5.chunk.css",
     "static/js/2.8d4bc716.chunk.js": "/kotha-bolun/static/js/2.8d4bc716.chunk.js",
     "static/js/2.8d4bc716.chunk.js.map": "/kotha-bolun/static/js/2.8d4bc716.chunk.js.map",
     "index.html": "/kotha-bolun/index.html",
-    "precache-manifest.85caf3e771f5dc68afa92542543da4f0.js": "/kotha-bolun/precache-manifest.85caf3e771f5dc68afa92542543da4f0.js",
+    "precache-manifest.114d5794d6a90b6fb23545d8d5ffe6ba.js": "/kotha-bolun/precache-manifest.114d5794d6a90b6fb23545d8d5ffe6ba.js",
     "service-worker.js": "/kotha-bolun/service-worker.js",
     "static/css/2.266e55a5.chunk.css.map": "/kotha-bolun/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.25a72578.chunk.css.map": "/kotha-bolun/static/css/main.25a72578.chunk.css.map"
+    "static/css/main.224bce28.chunk.css.map": "/kotha-bolun/static/css/main.224bce28.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.115aee60.js",
     "static/css/2.266e55a5.chunk.css",
     "static/js/2.8d4bc716.chunk.js",
-    "static/css/main.25a72578.chunk.css",
-    "static/js/main.89045179.chunk.js"
+    "static/css/main.224bce28.chunk.css",
+    "static/js/main.5b2c7878.chunk.js"
   ]
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kotha-bolun/precache-manifest.85caf3e771f5dc68afa92542543da4f0.js"
+  "/kotha-bolun/precache-manifest.114d5794d6a90b6fb23545d8d5ffe6ba.js"
 );
 
 self.addEventListener('message', (event) => {
