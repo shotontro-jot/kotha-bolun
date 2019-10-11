@@ -1,10 +1,18 @@
-import Table from 'react-bootstrap/Table';
 import React, {Component} from 'react';
 
 export default class MyTable extends Component {
     render() {
         return (
-            <table className="table table-bordered table-hover">
+            <div class="table-responsive">
+                <div className="mt-2 mb-2">
+                    <br/>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLScIJDumfCtb78rjMhbd9O7IhPn28waOu2vUK-W68NqrS0IXdg/viewform?fbclid=IwAR1HQqiihmwxCukGn1V5KsRwpPiUHZWMUwODX45qDgpamKV7f60wy_uKKuc">
+                      আপনার সাথে ঘটে যাওয়া নির্যাতনের ঘটনা জানাতে পারেন এই লিঙ্কে
+                    </a>
+                    <br/>
+                </div>
+                <br/>
+                <table className="table table-bordered table-hover">
                     <thead className="thead-light">
                       <tr>
                         <th scope="col">#</th>
@@ -15,6 +23,12 @@ export default class MyTable extends Component {
                         <th scope="col">ছবি&nbsp;বা&nbsp;ভিডিও&nbsp;লিঙ্ক</th>
                       </tr>
                     </thead>
+                {/* <thead>
+                    <tr>
+                    <th>#</th>
+                    
+                    </tr>
+                </thead> */}
                 <tbody>
                     <tr>
                     <td>1</td>
@@ -475,6 +489,7 @@ arek ti ghotona ak students k shibir sondheho kore onk mare then or chok nosto h
                     </tr>
                 </tbody>
             </table>
+            </div>
         )
     }
 }

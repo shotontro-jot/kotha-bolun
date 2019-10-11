@@ -1,25 +1,24 @@
 {
   "files": {
-    "main.css": "/kotha-bolun/static/css/main.b100e6da.chunk.css",
-    "main.js": "/kotha-bolun/static/js/main.70fa50df.chunk.js",
-    "main.js.map": "/kotha-bolun/static/js/main.70fa50df.chunk.js.map",
-    "runtime-main.js": "/kotha-bolun/static/js/runtime-main.211cf714.js",
-    "runtime-main.js.map": "/kotha-bolun/static/js/runtime-main.211cf714.js.map",
-    "static/css/2.0624914a.chunk.css": "/kotha-bolun/static/css/2.0624914a.chunk.css",
-    "static/js/2.1432759e.chunk.js": "/kotha-bolun/static/js/2.1432759e.chunk.js",
-    "static/js/2.1432759e.chunk.js.map": "/kotha-bolun/static/js/2.1432759e.chunk.js.map",
+    "main.css": "/kotha-bolun/static/css/main.5e4e9510.chunk.css",
+    "main.js": "/kotha-bolun/static/js/main.0f38c992.chunk.js",
+    "main.js.map": "/kotha-bolun/static/js/main.0f38c992.chunk.js.map",
+    "runtime-main.js": "/kotha-bolun/static/js/runtime-main.115aee60.js",
+    "runtime-main.js.map": "/kotha-bolun/static/js/runtime-main.115aee60.js.map",
+    "static/css/2.266e55a5.chunk.css": "/kotha-bolun/static/css/2.266e55a5.chunk.css",
+    "static/js/2.93813c7a.chunk.js": "/kotha-bolun/static/js/2.93813c7a.chunk.js",
+    "static/js/2.93813c7a.chunk.js.map": "/kotha-bolun/static/js/2.93813c7a.chunk.js.map",
     "index.html": "/kotha-bolun/index.html",
-    "precache-manifest.93409281bf88cbb19643692a1b4b8008.js": "/kotha-bolun/precache-manifest.93409281bf88cbb19643692a1b4b8008.js",
+    "precache-manifest.ebb61cf6f62b14cf6611c31c18163500.js": "/kotha-bolun/precache-manifest.ebb61cf6f62b14cf6611c31c18163500.js",
     "service-worker.js": "/kotha-bolun/service-worker.js",
-    "static/css/2.0624914a.chunk.css.map": "/kotha-bolun/static/css/2.0624914a.chunk.css.map",
-    "static/css/main.b100e6da.chunk.css.map": "/kotha-bolun/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/kotha-bolun/static/media/logo.25bf045c.svg"
+    "static/css/2.266e55a5.chunk.css.map": "/kotha-bolun/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.5e4e9510.chunk.css.map": "/kotha-bolun/static/css/main.5e4e9510.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.211cf714.js",
-    "static/css/2.0624914a.chunk.css",
-    "static/js/2.1432759e.chunk.js",
-    "static/css/main.b100e6da.chunk.css",
-    "static/js/main.70fa50df.chunk.js"
+    "static/js/runtime-main.115aee60.js",
+    "static/css/2.266e55a5.chunk.css",
+    "static/js/2.93813c7a.chunk.js",
+    "static/css/main.5e4e9510.chunk.css",
+    "static/js/main.0f38c992.chunk.js"
   ]
 }
