@@ -1,20 +1,34 @@
-import Table from 'react-bootstrap/Table';
 import React, {Component} from 'react';
 
 export default class MyTable extends Component {
     render() {
         return (
-            <Table striped bordered hover>
-                <thead>
+            <div class="table-responsive">
+                <div className="mt-2 mb-2">
+                    <br/>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLScIJDumfCtb78rjMhbd9O7IhPn28waOu2vUK-W68NqrS0IXdg/viewform?fbclid=IwAR1HQqiihmwxCukGn1V5KsRwpPiUHZWMUwODX45qDgpamKV7f60wy_uKKuc">
+                      আপনার সাথে ঘটে যাওয়া নির্যাতনের ঘটনা জানাতে পারেন এই লিঙ্কে
+                    </a>
+                    <br/>
+                </div>
+                <br/>
+                <table className="table table-bordered table-hover">
+                    <thead className="thead-light">
+                      <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">বিশ্ববিদ্যালয়</th>
+                        <th scope="col">নাম</th>
+                        <th scope="col">ঘটনার&nbsp;বিবরণ</th>
+                        <th scope="col">ঘটনার&nbsp;নিউজ&nbsp;বা ফেসবুক&nbsp;পোস্ট&nbsp;লিঙ্ক</th>
+                        <th scope="col">ছবি&nbsp;বা&nbsp;ভিডিও&nbsp;লিঙ্ক</th>
+                      </tr>
+                    </thead>
+                {/* <thead>
                     <tr>
                     <th>#</th>
-                    <th>বিশ্ববিদ্যালয়</th>
-                    <th>নাম</th>
-                    <th>ঘটনার বিবরণ</th>
-                    <th>ঘটনার নিউজ বা ফেসবুক পোস্ট লিঙ্ক</th>
-                    <th>ছবি বা ভিডিও লিঙ্ক</th>
+                    
                     </tr>
-                </thead>
+                </thead> */}
                 <tbody>
                     <tr>
                     <td>1</td>
@@ -474,7 +488,8 @@ arek ti ghotona ak students k shibir sondheho kore onk mare then or chok nosto h
                     <td>নেই</td>
                     </tr>
                 </tbody>
-            </Table>
+            </table>
+            </div>
         )
     }
 }
