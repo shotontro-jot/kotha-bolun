@@ -482,6 +482,9 @@ arek ti ghotona ak students k shibir sondheho kore onk mare then or chok nosto h
                     </tr>
                 </tbody>
             </table>
+            <br/>
+            <br/>
+            <br/>
             </div>
         )
     }

@@ -6,9 +6,9 @@ export default class MyNav extends Component {
   render() {
     return (
       <>
-        <Navbar bg="warning" variant="light">
+        <Navbar bg="warning" variant="light ">
           <br />
-          <Navbar.Brand>
+          <Navbar.Brand className="no-wrap">
             <a href="https://web.facebook.com/AmaderDUCSU/" target="_blank">
               <img src="./logo.jpg" className="logo" alt="" />
             </a>
