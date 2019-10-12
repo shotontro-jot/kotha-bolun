@@ -586,11 +586,9 @@ arek ti ghotona ak students k shibir sondheho kore onk mare then or chok nosto h
 অাপনার উদ্যোগ টা খুব ভালো লেগেছে।
 ধন্যবাদ।
 অাপু।</td>
-                    <td>https://www.barishaltimes.com/52792-1/?fbclid=IwAR0Cm8GeGN6Y1tXvVBsx38fJLp_U3_tzNwnaP0V2GipQqZ_FDiKztHWBLuA     
-
-এবং                                                  
-
-http://www.campuslive24.com/barisal-campus/14369/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A7%A7%E0%A7%AB-%E0%A6%B2%E0%A6%BE%E0%A6%96%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A3-%E0%A6%A6%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%AB%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%AC%E0%A7%9F?fbclid=IwAR21md0opUbCALCNsof5psTSqMnVFy2kCf-2Bz3qItgqLT8AaHRVmwzdPKE</td>
+                    <td>
+            https://www.barishaltimes.com/52792-1/ ,
+            http://www.campuslive24.com/barisal-campus/14369/শ্ববিদ্যালয়ে-শিক্ষকতা-১৫-লাখের-জন্য-প্রাণ-দিলেন-ফার্স্টবয়</td>
                     <td>https://www.youtube.com/watch?v=-2LI3lhQa54&t=114s</td>
                     </tr>
                 </tbody>
