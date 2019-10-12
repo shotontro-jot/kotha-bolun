@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/kotha-bolun/static/css/main.baf4c8d0.chunk.css",
-    "main.js": "/kotha-bolun/static/js/main.ad22cb74.chunk.js",
-    "main.js.map": "/kotha-bolun/static/js/main.ad22cb74.chunk.js.map",
-    "runtime-main.js": "/kotha-bolun/static/js/runtime-main.115aee60.js",
-    "runtime-main.js.map": "/kotha-bolun/static/js/runtime-main.115aee60.js.map",
-    "static/css/2.266e55a5.chunk.css": "/kotha-bolun/static/css/2.266e55a5.chunk.css",
-    "static/js/2.8d4bc716.chunk.js": "/kotha-bolun/static/js/2.8d4bc716.chunk.js",
-    "static/js/2.8d4bc716.chunk.js.map": "/kotha-bolun/static/js/2.8d4bc716.chunk.js.map",
+    "main.css": "/kotha-bolun/static/css/main.e197682c.chunk.css",
+    "main.js": "/kotha-bolun/static/js/main.fbf9f8a5.chunk.js",
+    "main.js.map": "/kotha-bolun/static/js/main.fbf9f8a5.chunk.js.map",
+    "runtime-main.js": "/kotha-bolun/static/js/runtime-main.211cf714.js",
+    "runtime-main.js.map": "/kotha-bolun/static/js/runtime-main.211cf714.js.map",
+    "static/css/2.0624914a.chunk.css": "/kotha-bolun/static/css/2.0624914a.chunk.css",
+    "static/js/2.97ab21d0.chunk.js": "/kotha-bolun/static/js/2.97ab21d0.chunk.js",
+    "static/js/2.97ab21d0.chunk.js.map": "/kotha-bolun/static/js/2.97ab21d0.chunk.js.map",
     "index.html": "/kotha-bolun/index.html",
-    "precache-manifest.e3008c691753744a78705b5174f7d315.js": "/kotha-bolun/precache-manifest.e3008c691753744a78705b5174f7d315.js",
+    "precache-manifest.d392f60b902a1fdeeb9bdcbc02bc354f.js": "/kotha-bolun/precache-manifest.d392f60b902a1fdeeb9bdcbc02bc354f.js",
     "service-worker.js": "/kotha-bolun/service-worker.js",
-    "static/css/2.266e55a5.chunk.css.map": "/kotha-bolun/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.baf4c8d0.chunk.css.map": "/kotha-bolun/static/css/main.baf4c8d0.chunk.css.map"
+    "static/css/2.0624914a.chunk.css.map": "/kotha-bolun/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.e197682c.chunk.css.map": "/kotha-bolun/static/css/main.e197682c.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.115aee60.js",
-    "static/css/2.266e55a5.chunk.css",
-    "static/js/2.8d4bc716.chunk.js",
-    "static/css/main.baf4c8d0.chunk.css",
-    "static/js/main.ad22cb74.chunk.js"
+    "static/js/runtime-main.211cf714.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.97ab21d0.chunk.js",
+    "static/css/main.e197682c.chunk.css",
+    "static/js/main.fbf9f8a5.chunk.js"
   ]
 }
