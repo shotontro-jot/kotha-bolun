@@ -4,16 +4,9 @@ export default class MyTable extends Component {
     render() {
         return (
             <div class="table-responsive">
-                <div className="mt-2 mb-2">
-                    <br/>
-                    <a href="https://docs.google.com/forms/d/e/1FAIpQLScIJDumfCtb78rjMhbd9O7IhPn28waOu2vUK-W68NqrS0IXdg/viewform?fbclid=IwAR1HQqiihmwxCukGn1V5KsRwpPiUHZWMUwODX45qDgpamKV7f60wy_uKKuc">
-                      আপনার সাথে ঘটে যাওয়া নির্যাতনের ঘটনা জানাতে পারেন এই লিঙ্কে
-                    </a>
-                    <br/>
-                </div>
-                <br/>
+                
                 <table className="table table-bordered table-hover">
-                    <thead className="thead-light">
+                    <thead className="thead-dark">
                       <tr>
                         <th scope="col">#</th>
                         <th scope="col">বিশ্ববিদ্যালয়</th>
@@ -489,6 +482,9 @@ arek ti ghotona ak students k shibir sondheho kore onk mare then or chok nosto h
                     </tr>
                 </tbody>
             </table>
+            <br/>
+            <br/>
+            <br/>
             </div>
         )
     }
