@@ -719,14 +719,6 @@ arek ti ghotona ak students k shibir sondheho kore onk mare then or chok nosto h
                     <td>https://youtu.be/053scGXgpz8</td>
                     </tr>
                     <tr>
-                    <td>58</td>
-                    <td>buet</td>
-                    <td>tasfia</td>
-                    <td>too much torture & beaten</td>
-                    <td>https://youtu.be/053scGXgpz8</td>
-                    <td>https://youtu.be/053scGXgpz8</td>
-                    </tr>
-                    <tr>
                     <td>59</td>
                     <td>ঢাকা বিশ্ববিদ্যালয়</td>
                     <td>মোঃ মহসিন</td>
