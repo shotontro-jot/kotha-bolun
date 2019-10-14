@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c30efc81a0b4a72d47931b0e474decf0",
+    "revision": "be691183c24c1c26fb5bfe2baff372db",
     "url": "/kotha-bolun/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kotha-bolun/static/css/2.0624914a.chunk.css"
   },
   {
-    "revision": "fd12cb698d246a47960c",
+    "revision": "4c9cc4c622025db3d204",
     "url": "/kotha-bolun/static/css/main.e197682c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kotha-bolun/static/js/2.97ab21d0.chunk.js"
   },
   {
-    "revision": "fd12cb698d246a47960c",
-    "url": "/kotha-bolun/static/js/main.1b29fc64.chunk.js"
+    "revision": "4c9cc4c622025db3d204",
+    "url": "/kotha-bolun/static/js/main.91448c68.chunk.js"
   },
   {
     "revision": "0116aa26c3e474212e87",
